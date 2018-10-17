@@ -1,6 +1,7 @@
 url("https://fonts.googleapis.com/css?family=Montserrat");
 
 body {
+  background-color: black;
   font-family: "Montserrat", sans-serif;
 }
 
