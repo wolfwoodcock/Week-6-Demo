@@ -1,0 +1,61 @@
+url("https://fonts.googleapis.com/css?family=Montserrat");
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+body #landing {
+  background-color: MEDIUMTURQUOISE;
+}
+
+#landing h1 {
+  margin-top: 20%;
+  font-size: 5vw;
+}
+#landing {
+  text-align: center;
+}
+
+#about div {
+  margin-top: 20%;
+  padding: 16px;
+}
+
+#about p {
+  max-width: 500px;
+}
+
+.page {
+  min-height: 100vh;
+  border-bottom: 1px solid black;
+}
+
+body #about {
+  background-color: SALMON;
+}
+
+#experience div {
+  margin-top: 20%;
+  padding: 16px;
+}
+
+#experience p {
+  max-width: 500px;
+}
+
+body #experience {
+  background-color: LIGHTPINK;
+}
+
+#projects div {
+  margin-top: 20%;
+  padding: 16px;
+}
+
+#projects p {
+  max-width: 500px;
+}
+
+body #projects {
+  background-color: BLANCHEDALMOND;
+}
