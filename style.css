@@ -6,7 +6,7 @@ body {
 }
 
 body #landing {
-  background-color: GREEN;
+  background-color: MEDIUMTURQUOISE;
 }
 
 #landing h1 {
@@ -32,7 +32,7 @@ body #landing {
 }
 
 body #about {
-  background-color: RED;
+  background-color: SALMON;
 }
 
 #experience div {
@@ -45,7 +45,7 @@ body #about {
 }
 
 body #experience {
-  background-color: BLUE;
+  background-color: LIGHTPINK;
 }
 
 #projects div {
